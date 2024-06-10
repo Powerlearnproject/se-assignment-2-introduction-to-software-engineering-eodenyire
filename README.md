@@ -13,6 +13,14 @@ Software engineering is a systematic approach to the development, operation, and
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
+Software engineering differs from traditional programming in several ways:
+
+Software Engineering vs. Traditional Programming:
+Traditional programming often focuses solely on writing code to achieve specific functionality, whereas software engineering considers the entire software development lifecycle.
+Software engineering emphasizes a systematic and disciplined approach to software development, including requirements analysis, design, testing, and maintenance, whereas traditional programming may lack formal processes and methodologies.
+Software engineering places a strong emphasis on collaboration, teamwork, and communication among stakeholders, whereas traditional programming may involve individual efforts without much interaction.
+Software engineering involves the use of various tools, techniques, and methodologies to manage complexity, ensure quality, and improve productivity, whereas traditional programming may rely on ad-hoc methods and practices.
+
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
