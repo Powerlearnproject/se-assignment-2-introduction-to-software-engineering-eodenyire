@@ -46,11 +46,11 @@ What is requirements engineering? Describe the process and its importance in the
 
 Requirements engineering involves eliciting, analyzing, documenting, and managing user requirements throughout the software development lifecycle. The process includes:
 
-Elicitation: Gathering requirements from stakeholders through interviews, surveys, workshops, and observation.
-Analysis: Analyzing and prioritizing requirements to determine their feasibility, importance, and impact on the software project.
-Specification: Documenting requirements in a clear, concise, and unambiguous manner using techniques such as use cases, user stories, and requirements documents.
-Validation: Validating requirements with stakeholders to ensure they meet their needs and expectations.
-Management: Managing changes to requirements, tracking their status, and ensuring they are addressed throughout the development process.
+* Elicitation: Gathering requirements from stakeholders through interviews, surveys, workshops, and observation.
+* Analysis: Analyzing and prioritizing requirements to determine their feasibility, importance, and impact on the software project.
+* Specification: Documenting requirements in a clear, concise, and unambiguous manner using techniques such as use cases, user stories, and requirements documents.
+* Validation: Validating requirements with stakeholders to ensure they meet their needs and expectations.
+* Management: Managing changes to requirements, tracking their status, and ensuring they are addressed throughout the development process.
 Requirements engineering is essential in software development as it lays the foundation for building the right software that meets user needs, reduces risks, and avoids costly rework.
 
 Software Design Principles:
