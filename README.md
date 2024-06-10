@@ -11,7 +11,6 @@ Define Software Engineering:
 Software engineering is a systematic approach to the development, operation, and maintenance of software systems. It encompasses various disciplines such as requirements analysis, design, coding, testing, and maintenance. Software engineering aims to produce high-quality software that meets user needs, is maintainable, scalable, and reliable. It involves applying engineering principles, methodologies, and best practices to software development processes.
 
 What is software engineering, and how does it differ from traditional programming?
-
 Software engineering differs from traditional programming in several ways:
 
 Software Engineering vs. Traditional Programming:
@@ -126,7 +125,6 @@ Define software maintenance and explain the different types of maintenance activ
 Software maintenance refers to the process of modifying, updating, and enhancing software to address bugs, improve performance, and adapt to changing user needs or technology environments. It involves several types of activities aimed at ensuring the continued reliability, usability, and relevance of the software over time.
 
 Types of maintenance activities:
-
 Corrective Maintenance: Fixing defects, bugs, or errors discovered during testing or after deployment. Corrective maintenance aims to restore the software to its intended functionality.
 Adaptive Maintenance: Making changes to the software to adapt to changes in the environment, such as operating system upgrades, hardware changes, or regulatory requirements.
 Perfective Maintenance: Enhancing the software to improve performance, usability, or efficiency. Perfective maintenance includes optimizations, refactoring, and adding new features or functionalities.
@@ -142,7 +140,6 @@ Cost Reduction: Proactive maintenance can reduce long-term costs by preventing c
 Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
-
 Software engineers may encounter several ethical issues in their work, including:
 
 Privacy: Protecting user privacy and sensitive data from unauthorized access, misuse, or exploitation.
@@ -157,7 +154,6 @@ Following Codes of Conduct: Adhering to professional codes of conduct and ethics
 Ethical Decision Making: Considering the ethical implications of design choices, algorithms, and system implementations. Consulting with stakeholders, ethicists, or legal experts when necessary.
 Transparency and Accountability: Providing transparency about how software systems operate, including their limitations, biases, and potential impacts on users and society.
 Continuous Learning: Staying informed about emerging ethical issues, best practices, and regulatory requirements in software engineering. Engaging in ongoing education and training to enhance ethical awareness and decision-making skills.
-
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
