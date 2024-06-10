@@ -24,12 +24,12 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 
 The Software Development Life Cycle consists of several phases:
 
-Requirement Analysis: Gathering and analyzing user requirements to define the scope and objectives of the software project.
-Design: Creating a detailed design of the software architecture, components, and modules based on the requirements analysis.
-Implementation: Writing code and developing software according to the design specifications.
-Testing: Verifying and validating the software to ensure it meets the specified requirements and quality standards.
-Deployment: Deploying the software to the production environment for end-users to use.
-Maintenance: Providing ongoing support, updates, and enhancements to the software to address bugs, issues, and changing user needs.
+* Requirement Analysis: Gathering and analyzing user requirements to define the scope and objectives of the software project.
+* Design: Creating a detailed design of the software architecture, components, and modules based on the requirements analysis.
+* Implementation: Writing code and developing software according to the design specifications.
+* Testing: Verifying and validating the software to ensure it meets the specified requirements and quality standards.
+* Deployment: Deploying the software to the production environment for end-users to use.
+* Maintenance: Providing ongoing support, updates, and enhancements to the software to address bugs, issues, and changing user needs.
 Each phase of the SDLC plays a crucial role in the development process and contributes to the overall success of the software project.
 
 Agile vs. Waterfall Models:
